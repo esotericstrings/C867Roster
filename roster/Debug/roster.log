@@ -1,0 +1,5 @@
+﻿  roster.cpp
+C:\Users\death\source\repos\roster\roster\roster.cpp(100,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\death\source\repos\roster\roster\roster.cpp(146,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\death\source\repos\roster\roster\roster.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+  roster.vcxproj -> C:\Users\death\source\repos\roster\Debug\roster.exe
